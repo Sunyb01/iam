@@ -6,7 +6,7 @@ require (
 	github.com/AlekSi/pointer v1.1.0
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
 	github.com/appleboy/gin-jwt/v2 v2.6.4
-	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
+	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/avast/retry-go v3.0.0+incompatible
 	github.com/buger/jsonparser v1.1.1
 	github.com/cpuguy83/go-md2man/v2 v2.0.1
@@ -59,10 +59,10 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.0
 	go.uber.org/automaxprocs v1.5.1
 	go.uber.org/zap v1.19.1
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/text v0.3.7
+	golang.org/x/sync v0.1.0
+	golang.org/x/text v0.8.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
-	golang.org/x/tools v0.1.11
+	golang.org/x/tools v0.7.0
 	google.golang.org/grpc v1.41.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gorm.io/driver/mysql v1.1.2
@@ -136,9 +136,9 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f // indirect
-	golang.org/x/sys v0.0.0-20211020064051-0ec99a608a1b // indirect
+	golang.org/x/mod v0.9.0 // indirect
+	golang.org/x/net v0.8.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20210828152312-66f60bf46e71 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/ini.v1 v1.63.2 // indirect
